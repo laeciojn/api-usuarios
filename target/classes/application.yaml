@@ -1,7 +1,0 @@
-spring:
-  application:
-    name: api-usuario
-  mongodb:
-    port: 27017
-    host: localhost
-    database: local
